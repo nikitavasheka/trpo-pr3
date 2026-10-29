@@ -1,5 +1,7 @@
 # Практическая работа №3
 
+## Вашека Никита ЭПБО-01-25
+
 ## Тема
 
 Bootstrap 5, Bootstrap JavaScript и базовый JavaScript интерфейса.
@@ -89,22 +91,3 @@ is-invalid
 ```text
 is-valid
 ```
-
-## Запуск
-
-1. Открыть папку проекта в VS Code.
-2. Открыть index.html.
-3. Запустить через браузер или Live Server.
-4. Проверить Console в DevTools.
-
-## Проверка
-
-Проверить:
-
-- navbar;
-- modal;
-- offcanvas;
-- toast;
-- форму;
-- таблицу;
-- адаптивность на 375px и 1440px.
